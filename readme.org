@@ -1,0 +1,17 @@
+#+latex_class: cn-article
+#+title: Android Software Engineer Development 安卓程序员练成记
+#+author: deepwaterooo: for Current LucidCarSettings
+
+* Good to see all the changes during these year......
+* Emacs
+- Emacs has been my favoriate editor, and I am so dependent on it during my daily life that once it has some bug now, I don't hesite to try to fix it as soon as possible. 
+- https://github.com/deepwaterooo/emacs
+- I began to use Emacs since Aug 2012, began the github repository since 2015, and keep updating it whenever there is a need.
+* leetcode Algorithm problems
+- It has been a long journey since Aug 1, 2021, since which day I began to working on my leetcode.com algroithms problems day aftter day. 
+- I was first exposed to leetcode.com on April/May 2014, and solved my first about 100 problems within about 1 month。
+- https://github.com/deepwaterooo/MyAlgorithms
+- I began my 1st commit on end of 2014, and have been continuously working on it, and updating it, we can clearly see all the changes between years, months, and even daily. 
+* Android 
+- Exposure: 1st Android app project: https://github.com/deepwaterooo/AndroidAppProgramming Fall 2014, course project. 
+- Now the majority of my repositories are Android base projects.  
